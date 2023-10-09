@@ -1,0 +1,504 @@
+Veículo Inserido no Endereço: 24
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 15
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 33
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 15
+ Fator de Carga Atual: 0,09
+Veículo Inserido no Endereço: 8
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 15
+ Fator de Carga Atual: 0,13
+Veículo Inserido no Endereço: 38
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 33
+ Fator de Carga Atual: 0,17
+Veículo Inserido no Endereço: 1
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 43
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 29
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 40
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 14
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 15
+ Fator de Carga Atual: 0,30
+Veículo Inserido no Endereço: 20
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 45
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 30
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 43
+ Fator de Carga Atual: 0,38
+Veículo Inserido no Endereço: 41
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 28
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 29
+ Fator de Carga Atual: 0,45
+Veículo Inserido no Endereço: 46
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 35
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 40
+ Fator de Carga Atual: 0,51
+Veículo Inserido no Endereço: 8
+ Fator de Carga Atual: 0,53
+Veículo Inserido no Endereço: 3
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 45
+ Fator de Carga Atual: 0,57
+Veículo Inserido no Endereço: 17
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 6
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 11
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 30
+ Fator de Carga Atual: 0,66
+Veículo Inserido no Endereço: 15
+ Fator de Carga Atual: 0,68
+Veículo Inserido no Endereço: 32
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 21
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 26
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 41
+ Fator de Carga Atual: 0,77
+Veículo Inserido no Endereço: 30
+ Fator de Carga Atual: 0,79
+Veículo Inserido no Endereço: 35
+ Fator de Carga Atual: 0,81
+Veículo Inserido no Endereço: 3
+ Fator de Carga Atual: 0,83
+Veículo Inserido no Endereço: 45
+ Fator de Carga Atual: 0,85
+Veículo Inserido no Endereço: 40
+ Fator de Carga Atual: 0,87
+Veículo Inserido no Endereço: 12
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 1
+ Fator de Carga Atual: 0,91
+Veículo Inserido no Endereço: 6
+ Fator de Carga Atual: 0,94
+Veículo Inserido no Endereço: 44
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 2
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 44
+ Fator de Carga Atual: 1,00
+Veículo Inserido no Endereço: 8
+ Fator de Carga Atual: 1,02
+Veículo Inserido no Endereço: 29
+ Fator de Carga Atual: 1,04
+Veículo Inserido no Endereço: 24
+ Fator de Carga Atual: 1,06
+Veículo Inserido no Endereço: 24
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 15
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 33
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 15
+ Fator de Carga Atual: 0,09
+Veículo Inserido no Endereço: 8
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 15
+ Fator de Carga Atual: 0,13
+Veículo Inserido no Endereço: 38
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 33
+ Fator de Carga Atual: 0,17
+Veículo Inserido no Endereço: 1
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 43
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 29
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 40
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 14
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 15
+ Fator de Carga Atual: 0,30
+Veículo Inserido no Endereço: 20
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 45
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 30
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 43
+ Fator de Carga Atual: 0,38
+Veículo Inserido no Endereço: 41
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 28
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 29
+ Fator de Carga Atual: 0,45
+Veículo Inserido no Endereço: 46
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 35
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 40
+ Fator de Carga Atual: 0,51
+Veículo Inserido no Endereço: 8
+ Fator de Carga Atual: 0,53
+Veículo Inserido no Endereço: 3
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 45
+ Fator de Carga Atual: 0,57
+Veículo Inserido no Endereço: 17
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 6
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 11
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 30
+ Fator de Carga Atual: 0,66
+Veículo Inserido no Endereço: 15
+ Fator de Carga Atual: 0,68
+Veículo Inserido no Endereço: 32
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 21
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 26
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 41
+ Fator de Carga Atual: 0,77
+Veículo Inserido no Endereço: 30
+ Fator de Carga Atual: 0,79
+Veículo Inserido no Endereço: 35
+ Fator de Carga Atual: 0,81
+Veículo Inserido no Endereço: 3
+ Fator de Carga Atual: 0,83
+Veículo Inserido no Endereço: 45
+ Fator de Carga Atual: 0,85
+Veículo Inserido no Endereço: 40
+ Fator de Carga Atual: 0,87
+Veículo Inserido no Endereço: 12
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 1
+ Fator de Carga Atual: 0,91
+Veículo Inserido no Endereço: 6
+ Fator de Carga Atual: 0,94
+Veículo Inserido no Endereço: 44
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 2
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 44
+ Fator de Carga Atual: 1,00
+Veículo Inserido no Endereço: 8
+ Fator de Carga Atual: 1,02
+Veículo Inserido no Endereço: 29
+ Fator de Carga Atual: 1,04
+Veículo Inserido no Endereço: 24
+ Fator de Carga Atual: 1,06
+Veículo Inserido no Endereço: 24
+ Fator de Carga Atual: 1,04
+Veículo Inserido no Endereço: 24
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 15
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 33
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 15
+ Fator de Carga Atual: 0,09
+Veículo Inserido no Endereço: 8
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 15
+ Fator de Carga Atual: 0,13
+Veículo Inserido no Endereço: 38
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 33
+ Fator de Carga Atual: 0,17
+Veículo Inserido no Endereço: 1
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 43
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 29
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 40
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 14
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 15
+ Fator de Carga Atual: 0,30
+Veículo Inserido no Endereço: 20
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 45
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 30
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 43
+ Fator de Carga Atual: 0,38
+Veículo Inserido no Endereço: 41
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 28
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 29
+ Fator de Carga Atual: 0,45
+Veículo Inserido no Endereço: 46
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 35
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 40
+ Fator de Carga Atual: 0,51
+Veículo Inserido no Endereço: 8
+ Fator de Carga Atual: 0,53
+Veículo Inserido no Endereço: 3
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 45
+ Fator de Carga Atual: 0,57
+Veículo Inserido no Endereço: 17
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 6
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 11
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 30
+ Fator de Carga Atual: 0,66
+Veículo Inserido no Endereço: 15
+ Fator de Carga Atual: 0,68
+Veículo Inserido no Endereço: 32
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 21
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 26
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 41
+ Fator de Carga Atual: 0,77
+Veículo Inserido no Endereço: 30
+ Fator de Carga Atual: 0,79
+Veículo Inserido no Endereço: 35
+ Fator de Carga Atual: 0,81
+Veículo Inserido no Endereço: 3
+ Fator de Carga Atual: 0,83
+Veículo Inserido no Endereço: 45
+ Fator de Carga Atual: 0,85
+Veículo Inserido no Endereço: 40
+ Fator de Carga Atual: 0,87
+Veículo Inserido no Endereço: 12
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 1
+ Fator de Carga Atual: 0,91
+Veículo Inserido no Endereço: 6
+ Fator de Carga Atual: 0,94
+Veículo Inserido no Endereço: 44
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 2
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 44
+ Fator de Carga Atual: 1,00
+Veículo Inserido no Endereço: 8
+ Fator de Carga Atual: 1,02
+Veículo Inserido no Endereço: 29
+ Fator de Carga Atual: 1,04
+Veículo Inserido no Endereço: 24
+ Fator de Carga Atual: 1,06
+Veículo Inserido no Endereço: 24
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 15
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 33
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 15
+ Fator de Carga Atual: 0,09
+Veículo Inserido no Endereço: 8
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 15
+ Fator de Carga Atual: 0,13
+Veículo Inserido no Endereço: 38
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 33
+ Fator de Carga Atual: 0,17
+Veículo Inserido no Endereço: 1
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 43
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 29
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 40
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 14
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 15
+ Fator de Carga Atual: 0,30
+Veículo Inserido no Endereço: 20
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 45
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 30
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 43
+ Fator de Carga Atual: 0,38
+Veículo Inserido no Endereço: 41
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 28
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 29
+ Fator de Carga Atual: 0,45
+Veículo Inserido no Endereço: 46
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 35
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 40
+ Fator de Carga Atual: 0,51
+Veículo Inserido no Endereço: 8
+ Fator de Carga Atual: 0,53
+Veículo Inserido no Endereço: 3
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 45
+ Fator de Carga Atual: 0,57
+Veículo Inserido no Endereço: 17
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 6
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 11
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 30
+ Fator de Carga Atual: 0,66
+Veículo Inserido no Endereço: 15
+ Fator de Carga Atual: 0,68
+Veículo Inserido no Endereço: 32
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 21
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 26
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 41
+ Fator de Carga Atual: 0,77
+Veículo Inserido no Endereço: 30
+ Fator de Carga Atual: 0,79
+Veículo Inserido no Endereço: 35
+ Fator de Carga Atual: 0,81
+Veículo Inserido no Endereço: 3
+ Fator de Carga Atual: 0,83
+Veículo Inserido no Endereço: 45
+ Fator de Carga Atual: 0,85
+Veículo Inserido no Endereço: 40
+ Fator de Carga Atual: 0,87
+Veículo Inserido no Endereço: 12
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 1
+ Fator de Carga Atual: 0,91
+Veículo Inserido no Endereço: 6
+ Fator de Carga Atual: 0,94
+Veículo Inserido no Endereço: 44
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 2
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 44
+ Fator de Carga Atual: 1,00
+Veículo Inserido no Endereço: 8
+ Fator de Carga Atual: 1,02
+Veículo Inserido no Endereço: 29
+ Fator de Carga Atual: 1,04
+Veículo Inserido no Endereço: 24
+ Fator de Carga Atual: 1,06
+Veículo Inserido no Endereço: 24
+ Fator de Carga Atual: 1,04
+Veículo Inserido no Endereço: 24
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 15
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 33
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 15
+ Fator de Carga Atual: 0,09
+Veículo Inserido no Endereço: 8
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 15
+ Fator de Carga Atual: 0,13
+Veículo Inserido no Endereço: 38
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 33
+ Fator de Carga Atual: 0,17
+Veículo Inserido no Endereço: 1
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 43
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 29
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 40
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 14
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 15
+ Fator de Carga Atual: 0,30
+Veículo Inserido no Endereço: 20
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 45
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 30
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 43
+ Fator de Carga Atual: 0,38
+Veículo Inserido no Endereço: 41
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 28
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 29
+ Fator de Carga Atual: 0,45
+Veículo Inserido no Endereço: 46
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 35
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 40
+ Fator de Carga Atual: 0,51
+Veículo Inserido no Endereço: 8
+ Fator de Carga Atual: 0,53
+Veículo Inserido no Endereço: 3
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 45
+ Fator de Carga Atual: 0,57
+Veículo Inserido no Endereço: 17
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 6
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 11
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 30
+ Fator de Carga Atual: 0,66
+Veículo Inserido no Endereço: 15
+ Fator de Carga Atual: 0,68
+Veículo Inserido no Endereço: 32
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 21
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 26
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 41
+ Fator de Carga Atual: 0,77
+Veículo Inserido no Endereço: 30
+ Fator de Carga Atual: 0,79
+Veículo Inserido no Endereço: 35
+ Fator de Carga Atual: 0,81
+Veículo Inserido no Endereço: 3
+ Fator de Carga Atual: 0,83
+Veículo Inserido no Endereço: 45
+ Fator de Carga Atual: 0,85
+Veículo Inserido no Endereço: 40
+ Fator de Carga Atual: 0,87
+Veículo Inserido no Endereço: 12
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 1
+ Fator de Carga Atual: 0,91
+Veículo Inserido no Endereço: 6
+ Fator de Carga Atual: 0,94
+Veículo Inserido no Endereço: 44
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 2
+ Fator de Carga Atual: 0
+Veículo Inserido no Endereço: 44
+ Fator de Carga Atual: 1,00
+Veículo Inserido no Endereço: 8
+ Fator de Carga Atual: 1,02
+Veículo Inserido no Endereço: 29
+ Fator de Carga Atual: 1,04
+Veículo Inserido no Endereço: 24
+ Fator de Carga Atual: 1,06
