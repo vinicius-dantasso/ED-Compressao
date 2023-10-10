@@ -5,9 +5,15 @@ import vinicius.entities.Conductor;
 import vinicius.entities.Vehicle;
 
 public class Protocol {
+    // ---------------------------------------------------------------------
+    // instancias estáticas do sistema
     public static HashTable hash = new HashTable(47);
     public static Huffman compressor = new Huffman();
 
+    // ---------------------------------------------------------------------
+
+    // ---------------------------------------------------------------------
+    // Método de inserção que chama a inserção da tabela hash
     public void insert(Vehicle car){
         String compressed = compressor.compress(car.toString());
 
@@ -19,6 +25,10 @@ public class Protocol {
         }
     }
 
+    // ---------------------------------------------------------------------
+
+    // ---------------------------------------------------------------------
+    // Método de remoção
     public void remove(String plate){
         plate = compressor.compress(plate);
 
@@ -30,6 +40,10 @@ public class Protocol {
         }
     }
 
+    // ---------------------------------------------------------------------
+
+    // ---------------------------------------------------------------------
+    // Método de busca
     public void search(String plate){
         // envio para busca
         plate = compressor.compress(plate);
@@ -59,6 +73,10 @@ public class Protocol {
         }
     }
 
+    // ---------------------------------------------------------------------
+
+    // ---------------------------------------------------------------------
+    // Método de atualização
     public void update(Vehicle newVehicle){
         String compressed = compressor.compress(newVehicle.toString());
 
@@ -70,9 +88,15 @@ public class Protocol {
         }
     }
 
+    // ---------------------------------------------------------------------
+
+    // ---------------------------------------------------------------------
+    // Método de listagem de veículos
     public void list(){
         hash.imprimir();
     }
+
+    // ---------------------------------------------------------------------
 
     public void insertFifty(){
         this.insert(new Vehicle("ABC1234", "12345678910", "Fiat Uno", "01/01/2023", new Conductor("Vinicius Dantas", "123.456.789-01")));

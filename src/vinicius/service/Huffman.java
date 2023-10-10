@@ -47,18 +47,9 @@ public class Huffman {
             heapMinimo.inserir(z);
         }
 
-        //heapMinimo.construirHeap();
+        codes = new String[128]; // Um array para os caracteres ASCII
+        buildCodeArray(raiz, "");
 
-    }
-
-    public void imprimir(HuffmanNode node, String s){
-        if(node.esq == null && node.dir == null && raiz.caracter == '-'){
-            System.out.println(node.caracter + ":" + s);
-            return;
-        }
-
-        imprimir(node.esq, s.concat("0"));
-        imprimir(node.dir, s.concat("1"));
     }
 
     public String compress(String input) {
@@ -67,10 +58,6 @@ public class Huffman {
         int[] charFrequencies = getFrequencies(input);
 
         buildTree(charArray.length, charArray, charFrequencies);
-
-        codes = new String[128]; // Um array para os caracteres ASCII
-
-        buildCodeArray(raiz, "");
 
         String compressed = "";
         for (int i = 0; i < input.length(); i++) {

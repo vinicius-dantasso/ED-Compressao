@@ -21,6 +21,8 @@ class No {
 }
 
 public class HashTable {
+    // ---------------------------------------------------------------------
+    // Inicialização dos atributos e métodos iniciais
     int size;
     int inserts;
     No tabela[];
@@ -39,17 +41,22 @@ public class HashTable {
         return hash % size;
     }
 
+    // ---------------------------------------------------------------------
+
+    // ---------------------------------------------------------------------
+    // Método de inserção na tabela
     public boolean inserir(String compressed) {
+        // Descompressão dos dados do veículo enviado para inserção
         String decompressed = Protocol.compressor.decompress(compressed);
         String[] datas = decompressed.split("@");
         Vehicle vehicle = new Vehicle(datas[0], datas[1], datas[2], datas[3], new Conductor(datas[4], datas[5]));
 
         String plate = vehicle.getPlate();
         int c = hash(plate);
-    
+        
         No currentNode = tabela[c];
         No previousNode = null;
-    
+        
         if (currentNode == null) {
             tabela[c] = new No(vehicle, null);
             inserts++;
@@ -87,12 +94,17 @@ public class HashTable {
         return false;
     }
 
+    // ---------------------------------------------------------------------
+    // Método de busca na tabela
+    // Retorna os dados comprimidos do veículo desejado
     public String buscar(String plate) {
+        // Descompressão do dado recebido
         plate = Protocol.compressor.decompress(plate);
         int h = hash(plate);
         No node = tabela[h];
         No previousNode = null;
 
+        // Busca pelo veículo desejado
         while (node != null) {
             if (node.vehicle.getPlate().equals(plate)) {
                 System.out.println("\nEndereço -> " + h);
@@ -114,12 +126,18 @@ public class HashTable {
         return null;
     }
 
+    // ---------------------------------------------------------------------
+
+    // ---------------------------------------------------------------------
+    // Método de remoção na tabela
     public boolean remover(String plate) {
+        // Descompressão do dado recebido
         plate = Protocol.compressor.decompress(plate);
         int h = hash(plate);
         No currentNode = tabela[h];
         No previousNode = null;
-    
+        
+        // Busca e remoção do veículo desejado
         while (currentNode != null) {
             if (currentNode.vehicle.getPlate().equals(plate)) {
                 if (previousNode == null) {
@@ -149,7 +167,12 @@ public class HashTable {
         return false; // O nó com a placa especificada não foi encontrado
     }
 
+    // ---------------------------------------------------------------------
+
+    // ---------------------------------------------------------------------
+    // Método de atualização de um veículo na árvore
     public boolean atualizar(String compressed) {
+        // Descompressão dos dados recebidos
         String decompressed = Protocol.compressor.decompress(compressed);
         String[] datas = decompressed.split("@");
         Vehicle updatedVehicle = new Vehicle(datas[0], datas[1], datas[2], datas[3], new Conductor(datas[4], datas[5]));
@@ -157,7 +180,8 @@ public class HashTable {
         String plate = updatedVehicle.getPlate();
         int h = hash(plate);
         No currentNode = tabela[h];
-    
+        
+        // Busca pelo veículo desejado para atualizar
         while (currentNode != null) {
             if (currentNode.vehicle.getPlate().equals(plate)) {
                 currentNode.vehicle = updatedVehicle; // Atualiza o veículo no nó
@@ -169,7 +193,10 @@ public class HashTable {
         return false; // O veículo com a placa especificada não foi encontrado
     }
     
+    // ---------------------------------------------------------------------
 
+    // ---------------------------------------------------------------------
+    // Método para listar os itens da tabela
     public void imprimir() {
         No node;
 
@@ -199,6 +226,10 @@ public class HashTable {
         }
     }
 
+    // ---------------------------------------------------------------------
+
+    // ---------------------------------------------------------------------
+    // Método para escrever no arquivo .txt o fator de carga da tabela
     private void fileWriter(String content){
         try{
             FileWriter writer = new FileWriter("ExteriorLinkLog.txt",true);
@@ -209,4 +240,6 @@ public class HashTable {
             e.printStackTrace();
         }
     }
+
+    // ---------------------------------------------------------------------
 }
