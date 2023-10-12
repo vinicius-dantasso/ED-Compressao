@@ -102,25 +102,28 @@ public class HashTable {
         plate = Protocol.compressor.decompress(plate);
         int h = hash(plate);
         No node = tabela[h];
-        No previousNode = null;
 
-        // Busca pelo veículo desejado
-        while (node != null) {
-            if (node.vehicle.getPlate().equals(plate)) {
+        No atual, anterior = null;
+        Vehicle temp;
+        int cont = 0;
+
+        // Método da Transposição
+        for(atual = node; atual != null; atual = atual.next){
+
+            if(atual.vehicle.getPlate().equals(plate) && cont != 0){
                 System.out.println("\nEndereço -> " + h);
-                
-                // Realizar o Mover para Frente
-                if (previousNode != null) {
-                    previousNode.next = node.next;
-                    node.next = tabela[h];
-                    tabela[h] = node;
-                }
-                
-                return Protocol.compressor.compress(node.vehicle.toString()); 
+                temp = anterior.vehicle;
+                anterior.vehicle = atual.vehicle;
+                atual.vehicle = temp;
+                return Protocol.compressor.compress(anterior.vehicle.toString());
+            }
+            else if(atual.vehicle.getPlate().equals(plate)){
+                return Protocol.compressor.compress(atual.vehicle.toString());
             }
 
-            previousNode = node;
-            node = node.next;
+            anterior = atual;
+            cont++;
+
         }
 
         return null;

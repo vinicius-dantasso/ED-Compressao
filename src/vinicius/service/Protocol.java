@@ -7,7 +7,7 @@ import vinicius.entities.Vehicle;
 public class Protocol {
     // ---------------------------------------------------------------------
     // instancias estáticas do sistema
-    public static HashTable hash = new HashTable(47);
+    public static HashTable hash = new HashTable(23);
     public static Huffman compressor = new Huffman();
 
     // ---------------------------------------------------------------------
